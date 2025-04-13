@@ -86,3 +86,4 @@ DELETE	/tasks/:id	Delete a task
 Made with ❤️ by sameer
 Email: sameermalik63901@gmail.com
 LinkedIn: https://www.linkedin.com/in/sameer-malik-67ab45217
+live : https://cosmic-cuchufli-a83313.netlify.app
