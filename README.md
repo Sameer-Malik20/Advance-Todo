@@ -88,4 +88,4 @@ Email: sameermalik63901@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/sameer-malik-67ab45217
 
-live : https://cosmic-cuchufli-a83313.netlify.app
+live : https://stately-elf-da822d.netlify.app
